@@ -1,8 +1,7 @@
 # FedLearnCT
 
 
-<iframe src="https://fed-learn-lung-ct.herokuapp.com/" height="500" width="100%" frameBorder="0"></iframe>
-
+<iframe src="https://fed-learn-lung-ct.herokuapp.com/fed-learn-lung-ct" height="500" width="100%" frameBorder="0"></iframe>
 
 test
 
