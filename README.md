@@ -1,4 +1,7 @@
 # FedLearnCT
 
-<video src="https://github.com/edhlee/FedLearnCT/blob/main/tutorial_clipped.mov" controls="controls" style="max-width: 730px;">
-</video>
+
+
+
+https://user-images.githubusercontent.com/12375462/196612664-93892675-92dc-41c4-bd7f-acd6245bb4cc.mov
+
